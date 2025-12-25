@@ -21,10 +21,10 @@ When I’m not debugging, you’ll probably find me **experimenting in the kitch
 
 ## 🚀 What I’m Currently Working On
 
-- 🔭 **Building:** A full-featured LMS (**Disha Class**) with role-based access, content delivery, and scalable backend architecture.
+- 🔭 **Building:** A feature-rich LMS (**Disha Class**) with role-based access, content delivery, and scalable backend architecture.
 - 🌱 **Learning:** System Design, Cloud Infrastructure, and application security fundamentals.
 - 💼 **Goal:** To build meaningful software that creates real impact beyond metro cities.
-- 💬 **Ask me about:** JavaScript internals, full-stack development, or learning tech from a Tier-3 background.
+- 💬 **Ask me about:** Ask me about: JavaScript fundamentals, full-stack workflows, or learning tech from a Tier-3 background
 
 ---
 
@@ -39,7 +39,7 @@ A practical LMS designed for real students and teachers, not just a portfolio de
 - Focus on maintainability and real-world usage
 - Built with scalability and future cloud deployment in mind
 
-🔗 Repository: _Coming Soon / Private (Active Development)_
+🔗 Repository: Private (screenshots and architecture available on request)
 
 ---
 
@@ -87,9 +87,11 @@ A practical LMS designed for real students and teachers, not just a portfolio de
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Prem-Prabhat&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Prem-Prabhat&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Prabhat&theme=radical&hide_border=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Prem-Prabhat&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Prem-Prabhat&theme=radical&hide_border=true)
 
 </div>
 
@@ -112,3 +114,4 @@ A practical LMS designed for real students and teachers, not just a portfolio de
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prem_prabhat9/)
 
 </div>
+
