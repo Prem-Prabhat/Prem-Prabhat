@@ -93,7 +93,7 @@ A practical LMS designed for real students and teachers, not just a portfolio de
 <br/>
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Prem-Prabhat&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Prem-Prabhat&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /> -->
 
 <br/>
 
