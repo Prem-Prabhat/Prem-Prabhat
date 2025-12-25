@@ -10,7 +10,7 @@
 
 I am a BCA student specializing in **Cloud & Security** from Bihar, India. For me, coding isn't just about syntax; it's about building systems that solve real problems. I am currently building my own LMS (**Disha Class**) and diving deep into the world of Full Stack Development.
 
-When I am not debugging code, I am probably **cooking** something spicy 🍳, reading **philosophy** 📚, or listening to **Hard Bass** music 🎧 to stay in the zone.
+When I am not debugging code, I am probably **cooking** something spicy 🍳, reading **philosophy** 📚, or listening to **Bhojpuri Songs** 🎧 to stay in the zone.
 
 <br/>
 
@@ -30,8 +30,6 @@ When I am not debugging code, I am probably **cooking** something spicy 🍳, re
 ---
 
 ### 🛠️ My Tech Arsenal
-
-यहाँ मैंने आपके टूल्स को प्रोफेशनल तरीके से categorize किया है:
 
 #### **Frontend & UI**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white)
@@ -60,8 +58,8 @@ When I am not debugging code, I am probably **cooking** something spicy 🍳, re
 
 ### 📫 Let's Connect
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](ADD_YOUR_LINKEDIN_URL)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](ADD_YOUR_TWITTER_URL)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](ADD_YOUR_INSTAGRAM_URL)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prem-prabhat/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/prem_prabhat9)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/prem_prabhat9/)
 
 </div>
