@@ -87,19 +87,31 @@ A practical LMS designed for real students and teachers, not just a portfolio de
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Prabhat&theme=radical&hide_border=true&layout=compact)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Prabhat&layout=compact&theme=radical&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api?username=Prem-Prabhat&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<!-- alternet -->
+<img src="https://stats-github.vercel.app/api/top-langs/?username=Prem-Prabhat&layout=compact&theme=radical" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=Prem-Prabhat&theme=radical&hide_border=true)
+
+<br/>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Prem-Prabhat&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+
+<br/>
+
+<!-- GitHub Streak -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=Prem-Prabhat&theme=radical&hide_border=true" />
 
 </div>
+
 
 ---
 
 ## 🤝 Currently Open To
 
-- Summer 2026 Internships (Frontend / Full Stack)
+- Summer 2026 Internships/Jobs (Frontend / Full Stack)
 - Early-stage startup opportunities
 - Open-source collaboration
 
@@ -109,6 +121,7 @@ A practical LMS designed for real students and teachers, not just a portfolio de
 
 ## 📫 Let’s Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://premprabhat.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-prabhat/)
 [![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/prem_prabhat9)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prem_prabhat9/)
