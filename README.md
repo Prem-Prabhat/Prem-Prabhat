@@ -90,10 +90,6 @@ A practical LMS designed for real students and teachers, not just a portfolio de
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Prabhat&layout=compact&theme=radical&hide_border=true" />
 
-<!-- alternet -->
-<img src="https://stats-github.vercel.app/api/top-langs/?username=Prem-Prabhat&layout=compact&theme=radical" />
-
-
 <br/>
 
 <!-- GitHub Stats -->
