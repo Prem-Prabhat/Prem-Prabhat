@@ -2,125 +2,124 @@
 
 # Hi, I'm Prem Prabhat 👋
 
-### 👨‍💻 Full Stack Developer | Cloud & Security Enthusiast | Curious Learner
+### 🚀 Builder | Full Stack Developer | Systems & Automation
 
 <br/>
 
-> **“I don’t just write code — I design systems that people can actually use.”**
-
-I’m a **BCA student specializing in Cloud & Security**, based in **Bihar, India**.  
-For me, software development isn’t about chasing frameworks — it’s about **solving real problems with clarity, scalability, and empathy for users**.
-
-I’m currently building a real-world **Learning Management System (LMS)** aimed at improving access to quality education in **Tier-3 cities**. I enjoy working across the stack, understanding *why* things break, and designing solutions that last beyond demos.
-
-When I’m not debugging, you’ll probably find me **experimenting in the kitchen** 🍳, reading **philosophy** 📚, or listening to **Bhojpuri music** 🎧 to stay focused.
+> “I like building systems that actually work in the real world.”
 
 </div>
 
 ---
 
-## 🚀 What I’m Currently Working On
+## 👨‍💻 About Me
 
-- 🔭 **Building:** A feature-rich LMS (**Disha Class**) with role-based access, content delivery, and scalable backend architecture.
-- 🌱 **Learning:** System Design, Cloud Infrastructure, and application security fundamentals.
-- 💼 **Goal:** To build meaningful software that creates real impact beyond metro cities.
-- 💬 **Ask me about:** Ask me about: JavaScript fundamentals, full-stack workflows, or learning tech from a Tier-3 background
+I’m a **BCA student from Bihar, India**, passionate about building **real-world software products**, not just demo projects.
 
----
+Most of my learning comes from **building and shipping things**, breaking them, and then rebuilding them better.
 
-## 🌟 Featured Project
+Right now I'm focused on:
 
-### 📚 Disha Class – Learning Management System
-A practical LMS designed for real students and teachers, not just a portfolio demo.
+- building **scalable web applications**
+- experimenting with **AI automation**
+- learning **system design and backend architecture**
 
-**Highlights:**
-- Role-based access (Admin / Teacher / Student)
-- MERN stack architecture
-- Focus on maintainability and real-world usage
-- Built with scalability and future cloud deployment in mind
-
-🔗 Repository: Private (screenshots and architecture available on request)
+I believe great software is not about frameworks — it's about **solving real problems for real people.**
 
 ---
 
-## 🧠 How I Think as a Developer
+## 🚀 What I'm Building
 
-- I value **clarity over cleverness** in code
-- I design features keeping **non-technical users** in mind
-- I focus on **long-term maintainability**, not just short-term results
-- I believe good software is built by understanding **people, not just tools**
+### 🧠 Zyncro
+A **smart scheduling and automation platform** designed to simplify meetings, payments, and calendar workflows.
+
+Key ideas behind Zyncro:
+
+- Two-way calendar synchronization
+- Multiple video meeting integrations
+- Payment integrations
+- Smart booking pages
+- Built for freelancers, consultants, and small teams
+
+---
+
+### 📚 Disha Class – LMS Platform
+
+A **Learning Management System** designed for coaching institutes and students in **Tier-2 and Tier-3 cities**.
+
+Features include:
+
+- Role-based dashboards (Admin / Teacher / Student)
+- Course management
+- Online classes
+- Admission management
+- Built using **React + modern backend architecture**
+
+The goal is simple:  
+**make quality education infrastructure accessible outside metro cities.**
+
+---
+
+## 🧠 Developer Mindset
+
+Some principles I follow while building software:
+
+- Clarity > Clever code  
+- Systems > Scripts  
+- Shipping > Overthinking  
+- Real users > Portfolio projects  
+
+I enjoy understanding **how systems work internally**, not just how to use frameworks.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend & UI
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
+### Frontend
+HTML • CSS • JavaScript • TypeScript  
+React • Next.js • TailwindCSS • Redux
 
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white)
+### Backend
+Node.js • Express  
+MongoDB • PostgreSQL • Redis  
+Prisma ORM
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+### DevOps & Cloud
+AWS • Google Cloud • Docker  
+Nginx • Vercel • GitHub Actions
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<!-- Top Languages -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Prabhat&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
--->
-<!-- GitHub Stats -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Prem-Prabhat&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /> -->
-
-<br/>
-
-<!-- GitHub Streak -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=Prem-Prabhat&theme=radical&hide_border=true" />
 
 </div>
 
-
 ---
 
-## 🤝 Currently Open To
+## 🤝 Open To Opportunities
 
-- Summer 2026 Internships/Jobs (Frontend / Full Stack)
-- Early-stage startup opportunities
-- Open-source collaboration
+I’m currently open to:
+
+- **Summer 2026 internships**
+- **startup collaborations**
+- **open-source contributions**
+
+If you're building something interesting, I'd love to collaborate.
 
 ---
 
 <div align="center">
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://premprabhat.site)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-prabhat/)
+
 [![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/prem_prabhat9)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prem_prabhat9/)
 
 </div>
-
