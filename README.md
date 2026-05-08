@@ -2,11 +2,11 @@
 
 # Hi, I'm Prem Prabhat 👋
 
-### 🚀 Builder | Full Stack Developer | Systems & Automation
+### Builder · Full Stack Developer · Systems Thinker
 
 <br/>
 
-> “I like building systems that actually work in the real world.”
+> "I don't just build features — I build systems that hold up under real-world pressure."
 
 </div>
 
@@ -14,79 +14,79 @@
 
 ## 👨‍💻 About Me
 
-I’m a **BCA student from Bihar, India**, passionate about building **real-world software products**, not just demo projects.
+**BCA student from Bihar, India** — currently building production-grade software that most people only learn about in system design interviews.
 
-Most of my learning comes from **building and shipping things**, breaking them, and then rebuilding them better.
+My learning philosophy: **ship real things, break them, fix them properly.**
 
-Right now I'm focused on:
+Right now I'm deep in:
 
-- building **scalable web applications**
-- experimenting with **AI automation**
-- learning **system design and backend architecture**
-
-I believe great software is not about frameworks — it's about **solving real problems for real people.**
+- Designing **distributed systems** — webhook idempotency, race condition prevention, atomic transactions
+- Building **financial infrastructure** — multi-gateway payments, host ledgers, payout pipelines, refund engines
+- Learning **backend architecture** from the inside — not tutorials, but actual production edge cases
 
 ---
 
 ## 🚀 What I'm Building
 
-### 🧠 Zyncro
-A **smart scheduling and automation platform** designed to simplify meetings, payments, and calendar workflows.
+### 🗓️ Zyncro — Enterprise Scheduling SaaS
 
-Key ideas behind Zyncro:
+A full-stack scheduling and payment platform for consultants, freelancers, and teams.
 
-- Two-way calendar synchronization
-- Multiple video meeting integrations
-- Payment integrations
-- Smart booking pages
-- Built for freelancers, consultants, and small teams
+**What's actually under the hood:**
 
----
+- **Multi-provider calendar sync** — Google Calendar, Microsoft Outlook (two-way, real-time)
+- **Video integrations** — Zoom, Google Meet, Microsoft Teams, custom locations
+- **Multi-gateway payment system** — Razorpay, Stripe, PayU with per-host gateway routing
+- **Host ledger & payout engine** — PENDING → SETTLED → PAID lifecycle, 3-day hold periods, REFUND_DEBIT clawbacks, bank/UPI payout processing
+- **Refund system** — policy-based eligibility (FLEXIBLE/MODERATE/STRICT/NO_REFUND), atomic gateway refund with double-processing prevention, MANUAL flow for PayU
+- **RBAC admin panel** — refund management, payout approvals, audit logs, settlement health monitoring
+- **Notification pipeline** — Email (Resend), WhatsApp (MSG91), In-App with queue-based delivery
+- **Webhook infrastructure** — idempotent processing with INSERT-first + P2002 catch pattern, Sentry escalation for orphaned events
+- **Cron jobs** — daily settlement, stale threshold health checks
 
-### 📚 Disha Class – LMS Platform
-
-A **Learning Management System** designed for coaching institutes and students in **Tier-2 and Tier-3 cities**.
-
-Features include:
-
-- Role-based dashboards (Admin / Teacher / Student)
-- Course management
-- Online classes
-- Admission management
-- Built using **React + modern backend architecture**
-
-The goal is simple:  
-**make quality education infrastructure accessible outside metro cities.**
+**Tech:** Next.js 15 · TypeScript · PostgreSQL · Prisma · Redis · NextAuth v5
 
 ---
 
-## 🧠 Developer Mindset
+### 📚 Disha Class — LMS for Tier-2/3 India
 
-Some principles I follow while building software:
+A **Learning Management System** built for coaching institutes outside metro cities.
 
-- Clarity > Clever code  
-- Systems > Scripts  
-- Shipping > Overthinking  
-- Real users > Portfolio projects  
+- Role-based dashboards — Admin / Teacher / Student
+- Course and batch management
+- Online class scheduling
+- Admission workflow
+- **Goal:** make quality education infrastructure accessible where it's missing
 
-I enjoy understanding **how systems work internally**, not just how to use frameworks.
+**Tech:** React · Node.js · MongoDB · modern backend architecture
+
+---
+
+## 🧠 How I Think About Software
+
+- **Correctness before cleverness** — a bug in a payment system isn't a "learning opportunity", it's someone's money
+- **Idempotency matters** — if something can run twice, design it to be safe when it does
+- **Transactions are not optional** — concurrent writes need atomic operations, not hope
+- **Systems > features** — features break; well-designed systems degrade gracefully
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-HTML • CSS • JavaScript • TypeScript  
-React • Next.js • TailwindCSS • Redux
+TypeScript · React · Next.js 15 · TailwindCSS · Shadcn/ui
 
 ### Backend
-Node.js • Express  
-MongoDB • PostgreSQL • Redis  
-Prisma ORM
+Node.js · Next.js API Routes · Prisma ORM  
+PostgreSQL · Redis · Upstash
+
+### Payments & Integrations
+Razorpay · Stripe · PayU  
+Google Calendar API · Microsoft Graph API · Zoom SDK  
+Resend · MSG91 · Sentry
 
 ### DevOps & Cloud
-AWS • Google Cloud • Docker  
-Nginx • Vercel • GitHub Actions
+Vercel · AWS · Google Cloud · Docker · Nginx · GitHub Actions
 
 ---
 
@@ -100,26 +100,20 @@ Nginx • Vercel • GitHub Actions
 
 ---
 
-## 🤝 Open To Opportunities
+## 🤝 Open To
 
-I’m currently open to:
-
-- **Summer 2026 internships**
-- **startup collaborations**
-- **open-source contributions**
-
-If you're building something interesting, I'd love to collaborate.
+- **Summer 2026 internships** — especially backend, systems, or fintech
+- **Startup collaborations** — if you're building something real, let's talk
+- **Open-source contributions**
 
 ---
 
 <div align="center">
 
-## 📫 Connect With Me
+## 📫 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://premprabhat.site)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-prabhat/)
-
 [![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/prem_prabhat9)
 
 </div>
